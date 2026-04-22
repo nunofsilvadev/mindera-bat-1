@@ -16,5 +16,5 @@ test('Validate Attributes', async ({ request }) => {
   
   //skills
   expect(responseBody[0].skills[0]).toBe('Athletics');
-  
+
 });
