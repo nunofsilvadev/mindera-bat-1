@@ -1,0 +1,23 @@
+{
+  "name": "mindera-bat-1",
+  "version": "1.0.0",
+  "description": "This project is related to Mindera's training: Backend Automation Test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunofsilvadev/mindera-bat-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nunofsilvadev/mindera-bat-1/issues"
+  },
+  "homepage": "https://github.com/nunofsilvadev/mindera-bat-1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
